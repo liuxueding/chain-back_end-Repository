@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.chain.chainfornewbackendapi.ChainForNewBackendApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.468 s - in com.chain.chainfornewbackendapi.ChainForNewBackendApiApplicationTests
