@@ -1,6 +1,7 @@
 # chain-back_end-Repository
 链时代招新网站--后端项目仓库
 
+2023-8-24 8:17--- 新增final-backend-api，为最终代码，实现了用户登录注册、文件上传和邮件自动发送
 
 新增master branch，最终代码在里面发布
 
